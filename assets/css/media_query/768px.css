@@ -1,0 +1,71 @@
+#main_box{
+    top: 0px;
+}
+
+#site1{
+    width: 210px;
+    height: 135px;
+}
+
+#site2{
+    width: 210px;
+    height: 135px;
+    top: -867px;
+}
+
+#site3{
+    width: 210px;
+    height: 135px;
+    top: -1004px;
+}
+
+/* SECOND ROW */
+#site4{
+    width: 210px;
+    height: 135px;
+    top: -975px;
+}
+
+#site5{
+    width: 210px;
+    height: 135px;
+    top: -1111px;
+}
+
+#site6{
+    width: 210px;
+    height: 135px;
+    top: -1246px;
+}
+
+/* THIRD ROW */
+#site7{
+    width: 210px;
+    height: 135px;
+    top: -1221px;
+}
+
+#site8{
+    width: 210px;
+    height: 135px;
+    top: -1358px;
+}
+
+#site9{
+    width: 210px;
+    height: 135px;
+    top: -1493px;
+}
+
+#content_box4{
+    top: -550px;
+}
+
+#portfolio_CSS_a {
+    font-size: 1.4rem;
+    top: -7px;
+}
+
+footer {
+      top: -530px;
+}

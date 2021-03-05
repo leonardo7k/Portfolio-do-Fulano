@@ -1,0 +1,173 @@
+#main_box{
+    height: 3450px;
+
+
+    position: relative;
+    top: 0px;
+}
+
+#content_box2{
+    top: 0px;
+}
+
+#content_box3{
+    top: 0px;
+}
+p{
+    font-size: 1.5rem;
+}
+
+#menu_li{
+    padding-left: 35px;
+    left: 35px;
+}
+
+#portfolio_CSS_a {
+    font-size: 1.6rem;
+}
+
+
+#site1{
+    width: 250px;
+    height: 162px;
+}
+
+#site2{
+    width: 250px;
+    height: 162px;
+    top: -892px;
+}
+
+#site3{
+    width: 250px;
+    height: 162px;
+    top: -1054px;
+}
+
+/* SECOND ROW */
+#site4{
+    width: 250px;
+    height: 162px;
+    top: -1025px;
+}
+
+#site5{
+    width: 250px;
+    height: 162px;
+    top: -1187px;
+}
+
+#site6{
+    width: 250px;
+    height: 162px;
+    top: -1350px;
+}
+
+/* THIRD ROW */
+#site7{
+    width: 250px;
+    height: 162px;
+    top: -1325px;
+}
+
+#site8{
+    width: 250px;
+    height: 162px;
+    top: -1488px;
+}
+
+#site9{
+    width: 250px;
+    height: 162px;
+    top: -1650px;
+}
+
+#content_box3{
+    top: -220px;
+}
+
+#content_box4{
+    top: -420px;
+}
+
+#specialization1{
+
+    width: 220px;
+    height: 220px;
+
+    top: 30px;
+    left: -34%;
+}
+
+#specialization2{
+
+    width: 220px;
+    height: 220px;
+    
+    position: relative;
+    top: -190px;
+}
+
+#specialization3{
+
+    width: 220px;
+    height: 220px;
+    
+    position: relative;
+    top: -410px;
+    left: 34%;
+}
+
+/* ROW DE BAIXO */
+#specialization4{
+
+    width: 220px;
+    height: 220px;
+    
+    position: relative;
+    top: -350px;
+    left: -34%;
+}
+
+#specialization5{
+
+    width: 220px;
+    height: 220px;
+    
+    position: relative;
+    top: -570px;
+}
+
+#specialization6{
+
+    width: 220px;
+    height: 220px;
+    
+    position: relative;
+    top: -790px;
+    left: 34%;
+}
+
+#spec_icon{
+    margin-left: 75px;
+    margin-top: 10px;
+}
+
+h6{
+    position: relative;
+    top: -2px;
+}
+
+h7{
+    font-size: 0.7rem;
+    top: -23px;
+}
+
+footer {
+    background-color: #181818;
+    text-align: center;
+    padding: 23px;
+    margin: auto;
+    position: relative;
+    top: -430px;
+}

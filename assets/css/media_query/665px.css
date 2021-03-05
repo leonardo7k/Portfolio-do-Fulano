@@ -1,0 +1,186 @@
+nav{
+    display:none;
+}
+
+#digitation{
+
+    width: 100%;
+    max-width: 550px;
+    margin: auto;
+
+    margin-top: 30vh;
+    
+}
+
+#content_box2{
+    top: -70px;
+}
+
+#content_box3{
+    top: -100px;
+}
+
+p{
+    font-size: 1rem;
+}
+
+
+#site1{
+    width: 240px;
+    height: 154px;
+    left: -25%;
+}
+
+#site2{
+    width: 240px;
+    height: 154px;
+    top: -882px;
+    left: 27%;
+}
+
+#site3{
+    width: 240px;
+    height: 154px;
+    top: -836px;
+    left: -25%;
+}
+
+/* SECOND ROW */
+#site4{
+    width: 240px;
+    height: 154px;
+    top: -990px;
+    left: 27%;
+}
+
+#site5{
+    width: 240px;
+    height: 154px;
+    top: -944px;
+    left: -25%;
+}
+
+#site6{
+    width: 240px;
+    height: 154px;
+    top: -1099px;
+    left: 27%;
+}
+
+/* THIRD ROW */
+#site7{
+    width: 240px;
+    height: 154px;
+    top: -1052px;
+    left: -25%;
+}
+
+#site8{
+    width: 240px;
+    height: 154px;
+    top: -1202px;
+    left: 27%;
+}
+
+#site9{
+    width: 240px;
+    height: 154px;
+    top: -1160px;
+    left: 0%;
+}
+
+#specialization1{
+
+    width: 220px;
+    height: 220px;
+
+    top: 40px;
+    left: -28%;
+}
+
+#specialization2{
+
+    width: 220px;
+    height: 220px;
+
+    top: -179px;
+    left: 28%;
+}
+
+#specialization3{
+
+    width: 220px;
+    height: 220px;
+
+    top: -150px;
+    left: -28%;
+}
+
+/* ROW DE BAIXO */
+#specialization4{
+
+    width: 220px;
+    height: 220px;
+    
+    top: -370px;
+    left: 28%;
+}
+
+#specialization5{
+
+    width: 220px;
+    height: 220px;
+
+    top: -335px;
+    left: -28%;
+}
+
+#specialization6{
+
+    width: 220px;
+    height: 220px;
+    
+    top: -555px;
+    left: 28%;
+}
+
+
+#content_box4{
+    top: 100px;
+}
+
+#content_box1{
+    top: -114px;
+}
+
+#spec_icon{
+    margin-left: 77px;
+    margin-top: 10px;
+    width: 70px;
+}
+
+h6 {
+    font-size: 1.3rem;
+    margin-top: 5px;
+}
+
+h7{
+    font-size: 0.7rem;
+    top: -30px;
+}
+
+#main_box{
+    background-color: black;
+
+    width: 100%;
+    margin: 0 auto;
+    height: 3350px;
+
+
+    position: relative;
+    top: 300px;
+}
+
+footer{
+    top: 50px;
+}

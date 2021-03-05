@@ -1,0 +1,139 @@
+#site1{
+    width: 190px;
+    height: 122px;
+}
+
+#site2{
+    width: 190px;
+    height: 122px;
+    top: -853px;
+}
+
+#site3{
+    width: 190px;
+    height: 122px;
+    top: -976px;
+}
+
+/* SECOND ROW */
+#site4{
+    width: 190px;
+    height: 122px;
+    top: -950px;
+}
+
+#site5{
+    width: 190px;
+    height: 122px;
+    top: -1073px;
+}
+
+#site6{
+    width: 190px;
+    height: 122px;
+    top: -1197px;
+}
+
+/* THIRD ROW */
+#site7{
+    width: 190px;
+    height: 122px;
+    top: -1169px;
+}
+
+#site8{
+    width: 190px;
+    height: 122px;
+    top: -1292px;
+}
+
+#site9{
+    width: 190px;
+    height: 122px;
+    top: -1415px;
+}
+
+#content_box4{
+    top: -650px;
+}
+
+#portfolio_CSS_a {
+    font-size: 1.4rem;
+    top: -7px;
+}
+
+
+#specialization1{
+
+    width: 210px;
+    height: 210px;
+
+    top: 40px;
+    left: -34%;
+}
+
+#specialization2{
+
+    width: 210px;
+    height: 210px;
+    
+    position: relative;
+    top: -170px;
+}
+
+#specialization3{
+
+    width: 210px;
+    height: 210px;
+    
+    position: relative;
+    top: -380px;
+    left: 34%;
+}
+
+/* ROW DE BAIXO */
+#specialization4{
+
+    width: 210px;
+    height: 210px;
+    
+    position: relative;
+    top: -297px;
+    left: -34%;
+}
+
+#specialization5{
+
+    width: 210px;
+    height: 210px;
+    
+    position: relative;
+    top: -507px;
+}
+
+#specialization6{
+
+    width: 210px;
+    height: 210px;
+    
+    position: relative;
+    top: -717px;
+    left: 34%;
+}
+
+#spec_icon{
+    margin-left: 65px;
+    margin-top: 10px;
+}
+
+h6{
+    top: -7px;
+}
+
+h7{
+    top: -31px;
+}
+
+#menu_li{
+    left: 0px;
+}

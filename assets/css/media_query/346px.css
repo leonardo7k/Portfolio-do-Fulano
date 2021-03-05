@@ -1,0 +1,71 @@
+#site1{
+    width: 150px;
+    height: 95px;
+    left: -25%;
+}
+
+#site2{
+    width: 150px;
+    height: 95px;
+    top: -827px;
+    left: 25%;
+}
+
+#site3{
+    width: 150px;
+    height: 95px;
+    top: -813px;
+    left: -25%;
+}
+
+/* SECOND ROW */
+#site4{
+    width: 150px;
+    height: 95px;
+    top: -910px;
+    left: 25%;
+}
+
+#site5{
+    width: 150px;
+    height: 95px;
+    top: -896px;
+    left: -25%;
+}
+
+#site6{
+    width: 150px;
+    height: 95px;
+    top: -992px;
+    left: 25%;
+}
+
+/* THIRD ROW */
+#site7{
+    width: 150px;
+    height: 95px;
+    top: -977px;
+    left: -25%;
+}
+
+#site8{
+    width: 150px;
+    height: 95px;
+    top: -1073px;
+    left: 25%;
+}
+
+#site9{
+    width: 150px;
+    height: 95px;
+    top: -1057px;
+    left: 0%;
+}
+
+#content_box2 {
+    top: 400px;
+}
+
+#content_box3 {
+    top: 220px;
+}

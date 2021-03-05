@@ -1,0 +1,40 @@
+#menu_li{
+    padding-left: 15px;
+    left: 70px;
+}
+
+#main_box{
+    height: 3050px;
+
+
+    position: relative;
+    top: 0px;
+}
+
+#leftbox1 {
+   display: none;
+}
+
+#rightbox1 {
+    max-width: 90%;
+    top: 3.5%;
+    right: -0.5%;
+}
+
+#content_box2{
+    top: -120px;
+}
+
+#content_box3{
+    top: -320px;
+}
+
+footer {
+    background-color: #181818;
+    text-align: center;
+    padding: 23px;
+    margin: auto;
+    position: relative;
+    top: -430px;
+}
+

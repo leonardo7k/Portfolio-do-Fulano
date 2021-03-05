@@ -1,0 +1,159 @@
+#site1{
+    width: 170px;
+    height: 108px;
+    left: -25%;
+}
+
+#site2{
+    width: 170px;
+    height: 108px;
+    top: -839px;
+    left: 25%;
+}
+
+#site3{
+    width: 170px;
+    height: 108px;
+    top: -826px;
+    left: -25%;
+}
+
+/* SECOND ROW */
+#site4{
+    width: 170px;
+    height: 108px;
+    top: -936px;
+    left: 25%;
+}
+
+#site5{
+    width: 170px;
+    height: 108px;
+    top: -922px;
+    left: -25%;
+}
+
+#site6{
+    width: 170px;
+    height: 108px;
+    top: -1031px;
+    left: 25%;
+}
+
+/* THIRD ROW */
+#site7{
+    width: 170px;
+    height: 108px;
+    top: -1018px;
+    left: -25%;
+}
+
+#site8{
+    width: 170px;
+    height: 108px;
+    top: -1126px;
+    left: 25%;
+}
+
+#site9{
+    width: 170px;
+    height: 108px;
+    top: -1107px;
+    left: 0%;
+}
+
+#specialization1{
+
+    width: 150px;
+    height: 150px;
+
+    top: 40px;
+    left: -24%;
+}
+
+#specialization2{
+
+    width: 150px;
+    height: 150px;
+
+
+    top: -110px;
+    left: 24%;
+}
+
+#specialization3{
+
+    width: 150px;
+    height: 150px;
+
+
+    top: -60px;
+    left: -24%;
+}
+
+/* ROW DE BAIXO */
+#specialization4{
+
+    width: 150px;
+    height: 150px;
+
+    
+    top: -210px;
+    left: 24%;
+}
+
+#specialization5{
+
+    width: 150px;
+    height: 150px;
+
+
+    top: -160px;
+    left: -24%;
+}
+
+#specialization6{
+
+    width: 150px;
+    height: 150px;
+
+    
+    top: -310px;
+    left: 24%;
+}
+
+#spec_icon{
+    margin-left: 59px;
+    margin-top: 1px;
+    width: 40px;
+}
+
+h6{
+    font-size: 1rem;
+    top: -11px;
+}
+
+h7{
+    font-size: 0.5rem;
+    top: -42px;
+}
+
+#portfolio_CSS_a {
+    font-size: 1rem;
+    top: -12px;
+}
+
+#content_box2 {
+    top: 300px;
+}
+
+#content_box3 {
+    top: 120px;
+}
+
+#digitation {
+    width: 100%;
+    max-width: 370px;
+    margin: auto;
+    margin-top: 30vh;
+}
