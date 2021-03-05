@@ -1,0 +1,154 @@
+#content_box3{
+    background-color: #060606;
+    width: 100%;
+    max-width: 1180px;
+    margin: 0 auto;
+    height: 1000px;
+
+    position: relative;
+    top: -130px;
+}
+
+#portfolio_white_box{
+    background-color: white;
+
+    width: 100%;
+    max-width: 200px;
+    margin: 0 auto;
+    height: 100px;
+
+    position: relative;
+    top: 25px;
+}
+
+#centerbox2{
+
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 80%;
+    
+    position: relative;
+    top: 5%;
+}
+
+/* FIRST ROW */
+
+#site1{
+    background-color: white;
+    width: 310px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 201px;
+    
+    position: relative;
+    top: -730px;
+    left: -32.5%;
+    border-radius: 0.8rem;
+}
+
+#site2{
+    background-color: white;
+    width: 310px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 201px;
+    
+    position: relative;
+    top: -930px;
+    left: 0%;
+    border-radius: 0.8rem;
+}
+
+#site3{
+    background-color: white;
+    width: 310px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 201px;
+    
+    position: relative;
+    top: -1130px;
+    left: 32.5%;
+    border-radius: 0.8rem;
+}
+
+/* SECOND ROW */
+#site4{
+    background-color: white;
+    width: 310px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 201px;
+    
+    position: relative;
+    top: -1100px;
+    left: -32.5%;
+    border-radius: 0.8rem;
+}
+
+#site5{
+    background-color: white;
+    width: 310px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 201px;
+    
+    position: relative;
+    top: -1300px;
+    left: 0%;
+    border-radius: 0.8rem;
+}
+
+#site6{
+    background-color: white;
+    width: 310px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 201px;
+    
+    position: relative;
+    top: -1500px;
+    left: 32.5%;
+    border-radius: 0.8rem;
+}
+
+/* THIRD ROW */
+#site7{
+    background-color: white;
+    width: 310px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 201px;
+    
+    position: relative;
+    top: -1470px;
+    left: -32.5%;
+    border-radius: 0.8rem;
+}
+
+#site8{
+    background-color: white;
+    width: 310px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 201px;
+    
+    position: relative;
+    top: -1670px;
+    left: 0%;
+    border-radius: 0.8rem;
+}
+
+#site9{
+    background-color: white;
+    width: 310px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 201px;
+    
+    position: relative;
+    top: -1870px;
+    left: 32.5%;
+    border-radius: 0.8rem;
+}

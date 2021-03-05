@@ -1,0 +1,20 @@
+footer {
+    background-color: #181818;
+    text-align: center;
+    padding: 23px;
+    margin: auto;
+    position: relative;
+    top: -130px;
+}
+
+footer a{
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover{
+    text-decoration: none;
+    color: #0078D7;
+    transition: 0.2s ease-in;
+}

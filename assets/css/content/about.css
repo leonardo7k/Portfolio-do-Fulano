@@ -1,0 +1,47 @@
+#content_box1{
+
+    background-color: #060606;
+    width: 100%;
+    max-width: 1180px;
+    margin: 0 auto;
+    height: 1000px;
+
+    position: relative;
+    top: 0px;
+}
+
+#about_white_box{
+
+    background-color: white;
+    width: 100%;
+    max-width: 200px;
+    margin: 0 auto;
+    height: 100px;
+
+    position: relative;
+    top: 25px;
+}
+
+#leftbox1{
+
+    width: 100%;
+    max-width: 50%;
+    margin: 0 auto;
+    height: 80%;
+    
+    position: relative;
+    top: 5%;
+    left: -25%;
+}
+
+#rightbox1{
+
+    width: 100%;
+    max-width: 60%;
+    margin: 0 auto;
+    height: 80%;
+    
+    position: relative;
+    top: -75%;
+    right: -17.5%;
+}

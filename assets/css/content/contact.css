@@ -1,0 +1,32 @@
+#content_box4{
+    background-color: #060606;
+    width: 100%;
+    max-width: 1180px;
+    margin: 0 auto;
+    height: 550px;
+    
+    position: relative;
+    top: -130px;
+}
+
+#contact_white_box{
+    background-color: white;
+
+    width: 100%;
+    max-width: 200px;
+    margin: 0 auto;
+    height: 100px;
+
+    position: relative;
+    top: 25px;
+}
+
+#centerbox3{
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 80%;
+    
+    position: relative;
+    top: 5%;
+}

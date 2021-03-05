@@ -1,0 +1,110 @@
+#content_box2{
+    background-color: #060606;
+    width: 100%;
+    max-width: 1180px;
+    margin: 0 auto;
+    height: 1000px;
+
+    position: relative;
+    top: -130px;
+}
+
+#services_white_box{
+    background-color: white;
+
+    width: 100%;
+    max-width: 200px;
+    margin: 0 auto;
+    height: 100px;
+
+    position: relative;
+    top: 25px;
+}
+
+#centerbox{
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 80%;
+    
+    position: relative;
+    top: 5%;
+}
+
+/* ROW DE CIMA */
+#specialization1{
+
+    background-color: white;
+    width: 280px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 280px;
+    
+    position: relative;
+    top: 40px;
+    left: -34%;
+}
+
+#specialization2{
+
+    background-color: white;
+    width: 280px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 280px;
+    
+    position: relative;
+    top: -240px;
+}
+
+#specialization3{
+
+    background-color: white;
+    width: 280px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 280px;
+    
+    position: relative;
+    top: -520px;
+    left: 34%;
+}
+
+/* ROW DE BAIXO */
+#specialization4{
+
+    background-color: white;
+    width: 280px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 280px;
+    
+    position: relative;
+    top: -398px;
+    left: -34%;
+}
+
+#specialization5{
+
+    background-color: white;
+    width: 280px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 280px;
+    
+    position: relative;
+    top: -675px;
+}
+
+#specialization6{
+
+    background-color: white;
+    width: 280px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 280px;
+    
+    position: relative;
+    top: -955px;
+    left: 34%;
+}

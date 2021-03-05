@@ -1,0 +1,27 @@
+#digitation{
+    max-width: 880px;
+    margin-top: 30vh;
+}
+
+#next{
+    top: 100px;
+
+    margin-bottom: 30vh;
+    max-width: 980px;
+}
+
+#content_box2{
+    top: 0px;
+}
+
+#content_box3{
+    top: 0px;
+}
+p{
+    background-color: white;
+    color: black;
+    font-size: 1.7rem;
+    line-height: 2.5rem;
+    padding-left: 35px;
+    border-radius: 0.3rem;
+}
