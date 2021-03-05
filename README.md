@@ -22,4 +22,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Feito com ❤️ por Leonardo Oliveira 👋🏽 Entre em contato!
 
 Instagram: @leonardo7k
+<br />
 E-mail: oleonardo78@gmail.com
