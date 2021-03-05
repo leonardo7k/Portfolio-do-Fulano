@@ -1,0 +1,172 @@
+@font-face {
+    font-family: 'product_sansregular';
+    src: url('fonts/product_sans_regular-webfont.woff2') format('woff2'),
+         url('fonts/product_sans_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+html{
+    font-size: 62.5;
+}
+
+
+body{
+    font-size: 1.6rem;
+    height: 100vh;
+    font-family: 'product_sansregular';
+    background-color: #FAFAFA;
+    background-image: url("../img/background_image.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+
+#portfolio_CSS_a{
+    color: black;
+    font-size: 2rem;
+    text-decoration: none;
+    position: relative;
+    top: -2px;
+}
+
+#portfolio_CSS_a:hover{
+    color: #0078D7;
+    transition: 0.2s ease-in;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    font-size: 4.5rem;
+    padding: 1rem;
+    border-radius: 0.3rem;
+}
+
+h3{
+    color: black;
+    font-size: 3rem;
+
+    position: relative;
+    top: 25px;
+}
+
+h4{
+    font-family: "Source Sans Pro",Helvetica,Arial,sans-serif,Helvetica,Arial,sans-serif;
+    color: whitesmoke;
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+
+    position: relative;
+    top: 25px;
+}
+
+h5{
+    color: white;
+    font-size: 3rem;
+
+    position: relative;
+    top: 25px;
+}
+
+h6{
+    color: black;
+    font-size: 1.3rem;
+
+    position: relative;
+    top: 25px;
+}
+
+h7{
+    color: black;
+    font-size: 0.9rem;
+
+    position: relative;
+    top: 20px;
+}
+
+h9{
+    color: white;
+    font-size: 1.2rem;
+
+}
+
+h10{
+    color: white;
+    font-size: 2rem;
+}
+
+h11{
+    color: white;
+    font-size: 1.4rem;
+}
+
+h12{
+    color: white;
+    font-size: 1rem;
+}
+
+h13{
+    color: white;
+    font-size: 1rem;
+}
+
+h14{
+    color: white;
+    font-size: 3rem;
+    text-decoration: none;
+    padding: 1rem;
+    border-radius: 0.3rem;
+}
+
+h14:hover{
+    background-color: white;
+    color: black;
+    transition: 0.1s ease-in;
+}
+
+h15::after{
+    content: '👇';
+    margin-left: 5px;
+    opacity: 1;
+    animation: flash 1.7s infinite;
+}
+
+
+p{
+    background-color: white;
+    color: black;
+    font-size: 2rem;
+    line-height: 2.5rem;
+    padding-left: 20px;
+    padding: 1rem;
+    border-radius: 0.3rem;
+}
+
+p::after{
+    content: '|';
+    margin-left: 5px;
+    opacity: 1;
+    animation: flash .7s infinite;
+}
+
+@keyframes flash{
+    0%, 100%{
+        opacity: 1;
+    }
+
+    50%{
+        opacity: 0;
+    }
+
+}
+
+#spec_icon{
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 80px;
+}
